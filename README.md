@@ -4,6 +4,9 @@ One software to perform Network Meta-analysis is MetaInsight (https://crsu.shiny
 ## initialization
 Please unzip the Zip file and activate the macro-enabled book before use. And please enable "Selenium".
 
+## User Form Layout
+The layout of labels, text boxes, combo boxes, and command buttons in the user form, as well as control names, can be checked in the slide file titled "UserFormLayout.pptx."
+
 ## precautions
 The input tool basically manipulates the "InputSheet" to input data. Yellow cells are basically cells that do not contain Excel formulas, so you can change the input values depending on the situation. Cells that are not colored are basically cells that contain Excel formulas, so do not edit the cells. Also, avoid inserting rows and columns for all sheets as this may corrupt the data.
 
@@ -56,9 +59,6 @@ The "delete the table on the left side of InputSheet" button can collectively de
 
 ## How to use NMA when the total number of groups to be compared exceeds 8
 If the total number of groups to be compared in NMA exceeds 8, please directly enter the names of the groups to be classified in rows 6 and onwards of columns W to Y (the "arm1" to "arm3" columns in the "Strategies" section) in the InputSheet. Delete and overwrite the formulas originally in rows 6 and onwards of columns W to Y with the names of the groups. However, entering data in the "IndexA" and "IndexB" of the "Strategies" tab in the "Input Form" that appears when double-clicking a cell in the InputSheet will no longer change the group names, but data entered for "Patient (n)" will be reflected in the InputSheet.
-
-## User Form Layout
-The layout of labels, text boxes, combo boxes, and command buttons in the user form, as well as control names, can be checked in the slide file titled "UserFormLayout.pptx."
 
 ## License for this file
 For this program (except Module4), this code was created by chubukeita and refactored by ChatGPT 4.0.
