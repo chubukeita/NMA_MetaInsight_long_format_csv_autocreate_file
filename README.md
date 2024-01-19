@@ -2,7 +2,7 @@
 One software to perform Network Meta-analysis is MetaInsight (https://crsu.shinyapps.io/MetaInsight/). This requires uploading a csv file in either Long format or Wide format format. However, it is labor-intensive to manually input data and create csv files in these formats for the number of outcomes of interest. Therefore, we created a format that is more intuitive and easier to input data, and implemented a macro effective book that converts the data into Long format csv files based on the input data, after refactoring with ChatGPT 4.0 (hereinafter referred to as the Input Tool). The Input Tool allows the creation of Long format csv files at the touch of a button.
 
 ## initialization
-Please enable "Selenium".
+Please unzip the Zip file and activate the macro-enabled book before use. And please enable "Selenium".
 
 ## precautions
 The input tool basically manipulates the "InputSheet" to input data. Yellow cells are basically cells that do not contain Excel formulas, so you can change the input values depending on the situation. Cells that are not colored are basically cells that contain Excel formulas, so do not edit the cells. Also, avoid inserting rows and columns for all sheets as this may corrupt the data.
