@@ -9,7 +9,7 @@ Network Meta-analysisを実施するためのソフトウェアにMetaInsightが
 
 
 ## 基本の使い方（NMAで比較する群が8群を超えない場合の使用法）
-## ※8群を超える場合には、READMEファイルの「NMAで比較する群が8群を超える場合の使い方」を参照してください）
+## ※8群を超える場合には、READMEファイルの「NMAで比較する群の総数が8群を超える場合の使い方」も合わせて参照してください）
 はじめに、「分類法」シートに配置された3つのコマンドボタンで群の分類の種類を指定することができます。
 
 ### 「分類法」シートによる群 (arm) の分類
@@ -64,4 +64,5 @@ Module4については、
 このモジュールのコードは https://github.com/yamato1413/WebDriverManager-for-VBA から引用しています。
 著作権 (c) yamato1413, MITライセンスに従います。
 ライセンスの全文は以下のリンクから参照できます: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/LICENSE
+
 変更箇所: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/WebDriverManager4SeleniumBasic.bas および README の '// SeleniumBasic' の Sampleコードをそのまま使用しています。
