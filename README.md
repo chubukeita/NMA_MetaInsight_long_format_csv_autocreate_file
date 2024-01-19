@@ -1,7 +1,7 @@
 # NMA_MetaInsight_long_format_csv_autocreate_file
 Network Meta-analysisを実施するためのソフトウェアにMetaInsightがあります。これには、Long format形式か、Wide format形式のcsvファイルをアップロードする必要があります。ただし、データを手入力してこれらの形式のcsvを、対象のアウトカムの数だけ作成するのは手間がかかります。よって、より直感的でデータの入力がしやすいフォーマットを作成し、入力データに基づいてLong format形式のcsvファイルに変換するマクロ有効ブックを、ChatGPT 4.0によるリファクタリングを経て実装しました（以下，入力ツール）。入力ツールによりLong format形式のcsvをボタン操作で作成できます。
 
-\section {初期設定}
+\section{初期設定}
 マクロ有効ブック内の「開発」タブを選択し、「Visual Basic」を選択し、「ツール (T)」の「参照設定」から「Selenium Type Library」を選択して「Selenium」を有効にしてください。
 
 ## 注意事項
