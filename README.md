@@ -70,8 +70,8 @@ https://github.com/chubukeita/NMA_MetaInsight_long_format_csv_autocreate_file/bl
 
 For Module4, the code for this module is taken from https://github.com/yamato1413/WebDriverManager-for-VBA.
 
-著作権 (c) yamato1413, MITライセンスに従います。
+Copyright (c) yamato1413, subject to the MIT License.
 
-ライセンスの全文は以下のリンクから参照できます: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/LICENSE
+The full license can be found at the following link: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/LICENSE
 
-変更箇所: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/WebDriverManager4SeleniumBasic.bas および README の '// SeleniumBasic' の Sampleコードをそのまま使用しています。
+Changed from: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/WebDriverManager4SeleniumBasic.bas and README '// SeleniumBasic ' in  and README.
