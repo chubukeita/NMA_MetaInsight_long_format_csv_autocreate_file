@@ -2,7 +2,7 @@
 One software to perform Network Meta-analysis is MetaInsight (https://crsu.shinyapps.io/MetaInsight/). This requires uploading a csv file in either Long format or Wide format format. However, it is labor-intensive to manually input data and create csv files in these formats for the number of outcomes of interest. Therefore, we created a format that is more intuitive and easier to input data, and implemented a macro effective book that converts the data into Long format csv files based on the input data, after refactoring with ChatGPT 4.0. The Tool allows the creation of Long format csv files at the touch of a button.
 
 ## initialization
-Please unzip the Zip file (this zip file contains the macro-enabled book (NMA_MetaInsight_long_format_csv_autocreate_file.xlsm)). Select the "Development" tab in the macro-enabled book and select "Visual Basic", then "Selenium Type Library" from "Reference Settings" of "Tools (T)".
+Please unzip the Zip file (this zip file contains the macro-enabled book (NMA_MetaInsight_long_format_csv_autocreate_file.xlsm)). Select "Visual Basic" in the "Development" tab in the macro-enabled book and select "Selenium Type Library" from "Reference Settings" of "Tools (T)".
 
 ## User Form Layout
 The layout of labels, text boxes, combo boxes, and command buttons in the user form, as well as control names, can be checked in the slide file titled "UserFormLayout.pptx."
