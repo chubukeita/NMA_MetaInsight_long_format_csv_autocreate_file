@@ -8,7 +8,7 @@ Please unzip the Zip file (this zip file contains the macro-enabled book (NMA_Me
 The layout of labels, text boxes, combo boxes, and command buttons in the user form, as well as control names, can be checked in the slide file titled "UserFormLayout.pptx."
 
 ## Dataset used
-We used the dataset that exists by default in MetaInsight. Specifically, we used the Continous Outcome dataset from the 2012 Gray et al. paper (https://pubmed.ncbi.nlm.nih.gov/22288431/), and the Dichotomous Outcome dataset from the "smoking.rdata" dataset attached to the R gemtc package The Dichotomous Outcome dataset is the dataset "smoking.rdata" attached to the R gemtc package.
+We used the dataset that exists by default in MetaInsight. Specifically, we used the Continous Outcome dataset from the 2012 Gray et al. paper (https://pubmed.ncbi.nlm.nih.gov/22288431/), and the Dichotomous Outcome dataset from the "smoking.rdata" dataset attached to the R gemtc package. The Dichotomous Outcome dataset is the dataset "smoking.rdata" attached to the R gemtc package.
 
 ## precautions
 The input tool basically manipulates the "InputSheet" to input data. Yellow cells are basically cells that do not contain Excel formulas, so you can change the input values depending on the situation. Cells that are not colored are basically cells that contain Excel formulas, so do not edit the cells. Also, avoid inserting rows and columns for all sheets as this may corrupt the data. Then, because changing the sheet position or sheet name may cause an error, it is recommended that you Avoid changing sheet names or sheet positions.
