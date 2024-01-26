@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+License for this file
+For this program (except Module4), this code was created by chubukeita and refactored by ChatGPT 4.0.
+
+Copyright (c) chubukeita, subject to MIT License.
+
+More information about the new license can be found at the following link:
+
+https://github.com/chubukeita/NMA_MetaInsight_long_format_csv_autocreate_file/blob/main/LICENSE
+
+For Module4, the code for this module is taken from https://github.com/yamato1413/WebDriverManager-for-VBA.
+
+Copyright (c) yamato1413, subject to the MIT License.
+
+The full license can be found at the following link: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/LICENSE
+
+Changed from: https://github.com/yamato1414/WebDriverManager-for-VBA/blob/main/WebDriverManager4SeleniumBasic.bas and README '// SeleniumBasic ' in and README.
