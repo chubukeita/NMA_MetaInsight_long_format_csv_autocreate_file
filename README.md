@@ -77,3 +77,12 @@ Copyright (c) yamato1413, subject to the MIT License.
 The full license can be found at the following link: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/LICENSE
 
 Changed from: https://github.com/yamato1414/WebDriverManager-for-VBA/blob/main/WebDriverManager4SeleniumBasic.bas and README '// SeleniumBasic ' in  and README.
+
+
+This file was output using the VBAC tool; VBAC is bundled with the free VBA library Ariawase.
+
+Ariawase (and VBAC) are available in the following GitHub repository: https://github.com/vbaidiot/ariawase/tree/master
+
+The original author is igeta.
+
+Ariawase and VBAC are used under the MIT License, and the full license can be found at the following link: https://github.com/vbaidiot/ariawase/blob/master/LICENSE.txt
