@@ -60,29 +60,3 @@ The "csv file output" button can convert all sheets to the left of the "InputShe
 Pressing the "Link_List create" button automatically creates URLs in the "Link_List" sheet for accessing the PubMed site of each paper. The "Connecting PMIDs with ORs" button can create a search formula linking all PMIDs entered in the input sheet with ORs. This search formula is displayed in cell A2 of the "Link_List" sheet. However, be cautious as it automatically operates Chrome, so do not manually operate the browser during the automation. This OR-linked search formula is necessary to check whether a self-made search formula for Systematic Review (SR) includes all papers in the same CQ as the prior SR. Specifically, checking if the total number of search results from the AND-linked search formula of "the OR-linked search formula of PMIDs collected in the prior SR" and "the self-made search formula" matches the number of papers collected in the SR confirms whether a comprehensive search was achieved. If the number of papers does not match, remake the search formula, repeat the process, and keep experimenting with the search formula until the numbers match.
 
 The "delete the table on the left side of InputSheet" button can collectively delete the collection of sheets titled "(outcome name) table" created to the left of the "InputSheet". The "hide uncolored columns" and "undo hiding of columns" buttons can hide and unhide cells without color on the "InputSheet", respectively.
-
-## License for this file
-For this program (except Module4), this code was created by chubukeita and refactored by ChatGPT 4.0.
-
-Copyright (c) chubukeita, subject to MIT License.
-
-More information about the new license can be found at the following link: 
-
-https://github.com/chubukeita/NMA_MetaInsight_long_format_csv_autocreate_file/blob/main/LICENSE
-
-For Module4, the code for this module is taken from https://github.com/yamato1413/WebDriverManager-for-VBA.
-
-Copyright (c) 2021 yamato1413, subject to the MIT License.
-
-The full license can be found at the following link: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/LICENSE
-
-Changed from: https://github.com/yamato1414/WebDriverManager-for-VBA/blob/main/WebDriverManager4SeleniumBasic.bas and README '// SeleniumBasic ' in  and README.
-
-
-This file was output using the VBAC tool; VBAC is bundled with the free VBA library Ariawase.
-
-Ariawase (and VBAC) are available in the following GitHub repository: https://github.com/vbaidiot/ariawase/tree/master
-
-The original author is Copyright (c) 2011 igeta.
-
-Ariawase and VBAC are used under the MIT License, and the full license can be found at the following link: https://github.com/vbaidiot/ariawase/blob/master/LICENSE.txt
