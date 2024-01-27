@@ -72,7 +72,7 @@ https://github.com/chubukeita/NMA_MetaInsight_long_format_csv_autocreate_file/bl
 
 For Module4, the code for this module is taken from https://github.com/yamato1413/WebDriverManager-for-VBA.
 
-Copyright (c) yamato1413, subject to the MIT License.
+Copyright (c) 2021 yamato1413, subject to the MIT License.
 
 The full license can be found at the following link: https://github.com/yamato1413/WebDriverManager-for-VBA/blob/main/LICENSE
 
@@ -83,6 +83,6 @@ This file was output using the VBAC tool; VBAC is bundled with the free VBA libr
 
 Ariawase (and VBAC) are available in the following GitHub repository: https://github.com/vbaidiot/ariawase/tree/master
 
-The original author is igeta.
+The original author is Copyright (c) 2011 igeta.
 
 Ariawase and VBAC are used under the MIT License, and the full license can be found at the following link: https://github.com/vbaidiot/ariawase/blob/master/LICENSE.txt
