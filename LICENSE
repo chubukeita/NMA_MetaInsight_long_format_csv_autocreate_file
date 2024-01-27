@@ -42,12 +42,8 @@ Changed from: https://github.com/yamato1414/WebDriverManager-for-VBA/blob/main/W
 
 This file was output using the VBAC tool; VBAC is bundled with the free VBA library Ariawase.
 
-Ariawase (and VBAC) are available in the following GitHub repository : https://github.com/vbaidiot/ariawase/tree/master
+Ariawase (and VBAC) are available in the following GitHub repository: https://github.com/vbaidiot/ariawase/tree/master
 
 The original author is igeta.
 
-Ariawase and VBAC are used under the MIT License, and the full license can be found at the following link: 
-
-https://github.com/vbaidiot/ariawase/blob/master/LICENSE.txt
-
-No changes have been made to this output.
+Ariawase and VBAC are used under the MIT License, and the full license can be found at the following link: https://github.com/vbaidiot/ariawase/blob/master/LICENSE.txt
